@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual do Python
+venv/
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar dados gerados automaticamente
+*.tmp
+*.log
+
+# Ignorar arquivos de backup do editor
+*~
+*.swp
+.vscode/
